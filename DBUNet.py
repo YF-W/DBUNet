@@ -6,7 +6,7 @@ from einops.layers.torch import Rearrange
 from torchvision import models as resnet_model
 DEVICE = "cuda:1"
 
-"""DBUNet"""
+"""Dual-Decoding Branch U-shaped Net (DBUNet)"""
 """Proposed By Dr. Wang Yuefei"""
 """CHENGDU UNIVERSITY"""
 """2023.1.30"""
