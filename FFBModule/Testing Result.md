@@ -1,15 +1,11 @@
-# 1) Preliminary research progress: Construction of universal feature fusion components FFB
-# 初步研究进展：构造通用性特征融合组件 FFB
-The question you mentioned is of great significance and will greatly contribute to the research quality of our manuscript. Following the previous question, we believe that the two recommendations are relevant and gradually deepening.
+# 1) Preliminary research progress: Construction of universal feature fusion components
+# 基于元学习的自适应组件——初步研究进展：构造通用性特征融合组件 Feature Fusion Bottleneck (FFB)
 
 Through in-depth discussion, we believe that:
 Other important open source models can be used to further test the effectiveness of our proposed modules.
 
 The main methods are:
 In the comparison method, select as many networks as possible, insert the modules we have constructed into them, and implement post-insertion testing in a completely consistent engineering environment to compare the network performance before and after the insertion.
-
-The above experimental process not only achieves module verification, but also is an important part of our model tuning. We hope to apply this tuning method to as many other open-source models as possible to verify the tuning effect.
-
 
 # 2) Specific solution to the problem
 By analyzing the model of DBUNet and combining it with the profiling of all the comparative models, we have deployed the work as follows:
