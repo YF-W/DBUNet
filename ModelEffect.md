@@ -1,4 +1,4 @@
-# 针对ViT与CNN结合的注意力机制的影响下的模型效果对比结果
+# 探索Vision Transformer与CNN融合：针对ViT与CNN结合的注意力机制的影响下的模型效果对比结果
 
 # Contrasting SOTA Models
 ![image](https://github.com/YF-W/DBUNet/assets/66008255/00eaaaaf-1ea8-4f88-8e4d-c38f229877b1)
