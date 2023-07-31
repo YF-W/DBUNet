@@ -5,6 +5,7 @@ In order to verify the universality of the structure to lesions and models, exte
 The test details are as follows
 
 
+1) Overview
 Through in-depth discussion, we believe that:
 Other important open source models can be used to further test the effectiveness of our proposed modules.
 
@@ -24,3 +25,4 @@ The FFB Module has the advantages of lightweight and pluggable, and at the same 
 In the early experiment of this modification, we used the REPLACEMENT method, but the effect was not satisfactory. We discussed that the original comparison network has a stable system with a close relationship before and after, and the modules are interconnected and strongly related. If imposed disassembly and replacement is used, it will have obvious damage to the original model, especially the absence of data processing module, which will greatly impair the analysis and image recovery ability of the network. Accordingly, we have switched to the addition of embedding to achieve the replacement of 10 models. It should be noted that in our comparison network, the DeepLab family accomplishes semantic segmentation through multiscale prediction, null convolution, and ASPP. However, these methods utilize cascaded structures, which make it difficult to embed portable modules.
 
 These replaced models are: (a) U-Net; (b) SmaAt UNet; (c) Refine Net; (d) OAUNet; (e) Swin Transformer; (f) SUNet; (g) MTUNet; (h) FCN; (i) SegNet; (j) ResUNet
+
