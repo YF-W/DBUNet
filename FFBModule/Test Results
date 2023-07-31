@@ -1,0 +1,2 @@
+In general, the structure still follows the calculation idea of small convolution kernel, but uses more 1*1 convolution and residual to achieve feature fusion. 
+In order to verify the universality of the structure to lesions and models, extensive pluggable tests were carried out in the early stage of the project. The test details are as follows.
