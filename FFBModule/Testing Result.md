@@ -1,5 +1,5 @@
-# 1) Preliminary research progress: Construction of universal feature fusion components
-# 初步研究进展：构造通用性特征融合组件
+# 1) Preliminary research progress: Construction of universal feature fusion components FFB
+# 初步研究进展：构造通用性特征融合组件 FFB
 The question you mentioned is of great significance and will greatly contribute to the research quality of our manuscript. Following the previous question, we believe that the two recommendations are relevant and gradually deepening.
 
 Through in-depth discussion, we believe that:
