@@ -1,4 +1,5 @@
 # Dual-Decoding Branch U-shaped Net (DBUNet)
+paper address: https://www.sciencedirect.com/science/article/abs/pii/S1047320323001062
 Dual-Decoding Branch U-shaped Net
 1) Combining Transformer ViT structure with DECODER part to achieve feature fusion. Considering the asymmetry of semantic feature information of codec, ViT Encoder was embedded into the Decoder part to realize feature strengthening.
 2) A new Attention Mechanism of Difference Amplification is proposed. We embedded a kind of polarized attention module in the ViT that enhanced or suppressed the weight of different channels.
